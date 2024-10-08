@@ -9,13 +9,13 @@ Olá, Avaliador,
 
   📋 Pré-requisitos
   
-  #IDE: Intellij IDEA Community
-  #Tool Kit Java: Java JDK - ultima versão
-  #Bibliotecas: JUnit, WebDriver e WebDriverManager, RestAssured (para validar dados de API)
-  #Gerenciador de pacotes: Maven
-  #Automação: Selenium / Cucumber (para BDD)
-  #Relatórios: Cucumber e Allure (relatórios API)
-  #Dependências: https://mvnrepository.com/artifact/org...
+	IDE: Intellij IDEA Community
+	Tool Kit Java: Java JDK - ultima versão
+	Bibliotecas: JUnit, WebDriver e WebDriverManager, RestAssured (para validar dados de API)
+	Gerenciador de pacotes: Maven
+	Automação: Selenium / Cucumber (para BDD)
+	Relatórios: Cucumber e Allure (relatórios API)
+	Dependências: https://mvnrepository.com/artifact/org...
   
 
   
